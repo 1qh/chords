@@ -67,9 +67,11 @@
 ## 2002
 
 Verse
+
 `1 - 6 - 45 - 1 (x2)`
 
 Pre
+
 `64 - 15 - 4 - 5`
 
 Chorus
@@ -80,11 +82,13 @@ Chorus
 ```
 
 Uh huh
+
 `15 - 46`
 
 ## Always remember us this way
 
 Verse
+
 `6 - 4 - 1 - 5 (x2)`
 
 Chorus
@@ -96,11 +100,13 @@ Chorus
 ```
 
 Bridge
+
 `4 - 1 - 6# - 4 - 5`
 
 ## Anh Ơi Ở Lại - D
 
 Verse
+
 `1 - 5 - 6 - 3 - 45 - 36 - 2 - 5`
 
 Chorus / Midtro
@@ -111,6 +117,7 @@ Chorus / Midtro
 ```
 
 Bridge
+
 `1 - 3 - 65 - 4 (toneup +2)`
 
 ## Cánh hồng phai - Am
@@ -118,6 +125,7 @@ Bridge
 ## Can't take my eyes off you - C
 
 Intro
+
 `2’5 - 1 (x2)`
 
 Verse
@@ -128,6 +136,7 @@ Verse
 ```
 
 Midtro
+
 `2 - 5 - 1 - 6 (x2)`
 
 Chorus
@@ -153,6 +162,7 @@ Verse
 ```
 
 Chorus
+
 `CANON`
 
 ## Cho em một ngày
@@ -261,6 +271,7 @@ Chorus
 ## Góc ban công
 
 Intro
+
 `1 - 4 (x2)`
 
 Verse
