@@ -166,6 +166,7 @@ Chorus
 ## Dĩ vãng nhạt nhòa / Vẫn Nhớ  - C#m
 
 Intro / Midtro
+
 `45 - 6 (x4)`
 
 Verse
@@ -191,6 +192,7 @@ Verse
 `1 - 5 - 6 - 5’1 - 4 - 1 - 2 - 3’`
 
 Pre
+
 `4 - 5 - 3 - 6 - 4 - 1 - 2 - 5`
 
 Chorus
@@ -202,6 +204,7 @@ Chorus
 ## Đừng yêu nữa em mệt rồi - G
 
 Intro / Verse / Chorus
+
 `CANON`
 
 Midtro
@@ -211,6 +214,7 @@ Midtro
 ```
 
 Bridge
+
 `45 - 36’ - 25`
 
 ## Đốt - G
@@ -223,9 +227,11 @@ Intro
 ```
 
 Verse / Chorus
+
 `4321`
 
 Pre
+
 `4 - 3 - 25 - 1`
 
 ## Fly me to the moon - C
@@ -249,6 +255,7 @@ Verse
 ```
 
 Chorus
+
 `25 - 14 - 23’ - 66’`
 
 ## Góc ban công
@@ -263,6 +270,7 @@ Verse
 `1 - 5 - 6 - 54 (x2)`
 
 Pre / Bridge
+
 `65 - 44’ (x2)`
 
 Chorus
@@ -273,6 +281,7 @@ Chorus
 ```
 
 Midtro
+
 `4 - 3 - 25 - 1`
 
 ## Good thing - C#m
@@ -280,14 +289,17 @@ Midtro
 ## Hành tinh ánh sáng
 
 Verse
+
 `4 - 4’ - 3 - 6’ (x2)`
 
 Pre / Chorus
+
 `4 - 36’ - 25 - 1`
 
 ## Hẹn ước từ hư vô - F
 
 Intro
+
 `1 - 6 - 4 - 5`
 
 Verse
@@ -307,6 +319,7 @@ Chorus
 ## If I Ain't Got You - G
 
 Intro / Chorus
+
 `4 - 3 - 2 - 1`
 
 Verse
@@ -317,6 +330,7 @@ Verse
 ```
 
 Pre
+
 `1 - 2 - 3 - 2 (x2)`
 
 ## Không cần - Gm
@@ -324,9 +338,11 @@ Pre
 ## Missing you - D
 
 Intro / Verse / Chorus / Bridge
+
 `1 - 3’ - 6 - 44’`
 
 Pre
+
 `6 - 3 - 4 - 5`
 
 ## Mùa Yêu đầu - B
@@ -347,6 +363,7 @@ Verse
 ```
 
 Chorus
+
 `1 - 5 - 6 - 4`
 
 ## Nếu Anh Đi - F
@@ -375,6 +392,7 @@ Midtro
 ## Ngày chưa giông bão - Gm
 
 Intro / Chorus
+
 `6 - 1 - 2 - 4`
 
 Verse
@@ -385,9 +403,11 @@ Verse
 ```
 
 Pre
+
 `4 - 2 (x2)`
 
 Outro
+
 `6 - 3 - 5 - 4`
 
 ## Ngày nắng
@@ -395,6 +415,7 @@ Outro
 ## Người hãy quên em đi
 
 Intro / Verse
+
 `62 - 51 - 42 - 73’`
 
 Chorus
@@ -407,11 +428,13 @@ Chorus
 ## Rồi người thương cũng hóa người dưng - B
 
 Intro
+
 `4 - 3 - 25 - 1`
 
 Verse
 
 - voicing `17654325`
+
 `1 - 5 - 6 - 5’1 - 45 - 36 - 2 - 5`
 
 Pre
@@ -445,6 +468,7 @@ Pre
 ```
 
 Bridge
+
 `5 - 6 - 4 - 21 - 45`
 
 ## Sợ Yêu - F#m
@@ -493,6 +517,7 @@ Intro
 ```
 
 Rest
+
 `4 - 5 - 3 - 6`
 
 ## Tuyết rơi mùa hè
@@ -514,11 +539,13 @@ Chorus
 ```
 
 Midtro
+
 `6 - 3 - 4 - 3’ (x2)`
 
 ## Và thế là hết (Chillies)
 
 Intro
+
 `1 - 6 - 24’ - 15`
 
 Verse
@@ -536,6 +563,7 @@ Chorus
 ```
 
 Bridge
+
 `45 - 36 - 2 - 5`
 
 ## Về phía mưa - C (->C#)
@@ -548,9 +576,11 @@ Verse
 ```
 
 Chorus
+
 `1 - 6 - 4 - 5`
 
 Tuti
+
 `45 - (3)6 - 2 - 5`
 
 Tone up -> chorus
@@ -572,12 +602,15 @@ Verse
 ```
 
 Chorus
+
 `4 - 5 - 3 - 6’ - 2 - 4’ - 1 - 5’1`
 
 Midtro
+
 `4 - 3 - 2 - 4’`
 
 Bridge
+
 `4 - 3 - 2 - 1`
 
 Tone up (+1)
@@ -623,6 +656,7 @@ Chorus
 ```
 
 Midtro
+
 `4 - 1 - 2 - 123 - 4 - 1 - 2 - 5`
 
 Bridge
