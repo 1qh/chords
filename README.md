@@ -1,35 +1,50 @@
 # Cả bài 1 vòng
 
-## Ai chung tình được mãi - Em
+## Ai Chung Tình Được Mãi - Em
 
 ```
 6 - 3 - 45 - 13'
 6 - 3 - 23 - 6
 ```
 
-## Chuyện buồn
+## Bên Trên Tầng Lầu - F#m
+
+`6 - 3 - 2 - 3'`
+
+## Chuyện Buồn
 
 `6 - 1 - 5 - 4`
 
-## Chỉ còn riêng anh - Am
+## Chỉ Còn Riêng Anh - Am
 
 `6 - 2 - 4 - 3`
+
+## Cô Đơn Trên Sofa - Gm
+
+`6 - 3 - 4 - 5`
 
 ## Daydreams - Bb
 
 `1 - 6 - 2 - 5`
 
-## Dù có cách xa - B
+## Dù Có Cách Xa - B
 
 `1 - 6 - 4 - 5`
 
-## Một cú lừa - Dm
+## Một Cú Lừa - Dm
 
 `6 - 3 - 4 - 3'`
 
-## Một đêm say - A
+## Một Đêm Say - A
 
 `1 - 6 - 4 - 1`
+
+## Ngày Mai Người Ta Lấy Chồng - A#m
+
+```
+6 - 3 - 45 - 13'
+6 - 3 - 23 - 6
+```
 
 ## See Tình - Cm
 
@@ -39,11 +54,11 @@
 
 `6 - 1 - 4 - 33'`
 
-## Và thế là hết (Soobin) - F
+## Và Thế Là Hết (soobin) - F
 
 `4 - 3' - 6 - 15'`
 
-## Xin anh đừng - A#m
+## Xin Anh Đừng - A#m
 
 `6 - 4 - 1 - 5`
 
@@ -60,7 +75,7 @@
 
 # Hơi phức tạp
 
-## Hương ngọc lan - C
+## Hương Ngọc Lan - C
 
 Intro
 
@@ -156,7 +171,7 @@ Uh huh
 
 `15 - 46`
 
-## Always remember us this way
+## Always Remember Us This Way
 
 Verse
 
@@ -191,11 +206,11 @@ Bridge
 
 `1 - 3 - 65 - 4 (toneup +2)`
 
-## Bùa yêu - Fm
+## Bùa Yêu - Fm
 
 `6 - 3 - 2 - 3`
 
-## Can't take my eyes off you - C
+## Can't Take My Eyes Off You - C
 
 Intro
 
@@ -219,13 +234,13 @@ Chorus
 2 - 5 - 1 - 6'
 ```
 
-## Cha già rồi đúng không
+## Cha Già Rồi Đúng Không
 
-## Cho em một ngày
+## Cho Em Một Ngày
 
-## Chuyện tình
+## Chuyện Tình
 
-## Chờ anh nhé
+## Chờ Anh Nhé
 
 Verse
 
@@ -242,13 +257,13 @@ Chorus
 
 `CANON`
 
-## Con cò
+## Con Cò
 
-## Cánh hồng phai - Am
+## Cánh Hồng Phai - Am
 
-## Có đôi khi
+## Có Đôi Khi
 
-## Dù chẳng phải anh - C (> D)
+## Dù Chẳng Phải Anh - C (> D)
 
 Verse
 
@@ -266,7 +281,7 @@ Chorus
 
 `1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 4 - 5`
 
-## Dĩ vãng nhạt nhòa / Vẫn Nhớ - C#m
+## Dĩ Vãng Nhạt Nhòa / Vẫn Nhớ - C#m
 
 Intro / Midtro
 
@@ -286,11 +301,11 @@ Chorus
 4 - 36' - 23' - 6
 ```
 
-## Fly me to the moon - C
+## Fly Me To The Moon - C
 
 ## Friends - Am
 
-## Giữa đại lộ đông tây - D
+## Giữa Đại Lộ Đông Tây - D
 
 Intro
 
@@ -310,7 +325,7 @@ Chorus
 
 `25 - 14 - 23' - 66'`
 
-## Góc ban công
+## Góc Ban Công
 
 Intro
 
@@ -337,7 +352,7 @@ Midtro
 
 `4 - 3 - 25 - 1`
 
-## Hành tinh ánh sáng
+## Hành Tinh Ánh Sáng
 
 Verse
 
@@ -347,7 +362,7 @@ Pre / Chorus
 
 `4 - 36' - 25 - 1`
 
-## Hẹn ước từ hư vô - F
+## Hẹn Ước Từ Hư Vô - F
 
 Intro
 
@@ -384,7 +399,7 @@ Pre
 
 `1 - 2 - 3 - 2 (x2)`
 
-## Missing you - D
+## Missing You - D
 
 Intro / Verse / Chorus / Bridge
 
@@ -394,7 +409,7 @@ Pre
 
 `6 - 3 - 4 - 5`
 
-## Mùa Yêu đầu - B
+## Mùa Yêu Đầu - B
 
 Intro
 
@@ -415,7 +430,7 @@ Chorus
 
 `1 - 5 - 6 - 4`
 
-## Ngày chưa giông bão - Gm
+## Ngày Chưa Giông Bão - Gm
 
 Intro / Chorus
 
@@ -436,9 +451,9 @@ Outro
 
 `6 - 3 - 5 - 4`
 
-## Ngày nắng
+## Ngày Nắng
 
-## Người hãy quên em đi
+## Người Hãy Quên Em Đi
 
 Intro / Verse
 
@@ -474,7 +489,7 @@ Midtro
 65 - 14 - 2 - 5
 ```
 
-## Rồi người thương cũng hóa người dưng - B
+## Rồi Người Thương Cũng Hóa Người Dưng - B
 
 Intro
 
@@ -500,7 +515,7 @@ Chorus
 4 - 5 - 3 - 6' - 2 - 3 - 6
 ```
 
-## Someone like you - A
+## Someone Like You - A
 
 Intro / Verse / Chorus
 
@@ -536,9 +551,9 @@ Chorus
 2 - 5 - 1 - 4 - 7 - 3' - 6
 ```
 
-## Ta có hẹn với tháng 5 - F#m
+## Ta Có Hẹn Với Tháng 5 - F#m
 
-## Tháng mấy em nhớ anh - Am
+## Tháng Mấy Em Nhớ Anh - Am
 
 Intro / Chorus
 
@@ -556,7 +571,7 @@ Verse
 4 - 5 - 3 - 6' - 2 - 3 - 6
 ```
 
-## Tháng tư là lời nói dối của em - Gm
+## Tháng Tư Là Lời Nói Dối Của Em - Gm
 
 Intro
 
@@ -569,7 +584,7 @@ Rest
 
 `4 - 5 - 3 - 6`
 
-## Tuyết rơi mùa hè
+## Tuyết Rơi Mùa Hè
 
 Verse
 
@@ -591,7 +606,7 @@ Midtro
 
 `6 - 3 - 4 - 3' (x2)`
 
-## Và thế là hết (Chillies)
+## Và Thế Là Hết (chillies)
 
 Intro
 
@@ -615,7 +630,7 @@ Bridge
 
 `45 - 36 - 2 - 5`
 
-## Về phía mưa - C (->C#)
+## Về Phía Mưa - C (->c#)
 
 Verse
 
@@ -634,7 +649,7 @@ Tuti
 
 Tone up -> chorus
 
-## Yêu xa
+## Yêu Xa
 
 Intro
 
@@ -681,7 +696,7 @@ Pre
 
 `4 - 3 - 25 - 1`
 
-## Đừng yêu nữa em mệt rồi - G
+## Đừng Yêu Nữa Em Mệt Rồi - G
 
 Intro / Verse / Chorus
 
@@ -699,12 +714,22 @@ Bridge
 
 # Vòng lùi
 
-## Chạm khẽ tim anh 1 chút thôi - Em
+## Chạm Khẽ Tim Anh 1 Chút Thôi - Em
 
-## Hẹn một mai - F
+## Gác Lại Âu Lo - B
+
+## Hẹn Một Mai - F
 
 ## Mơ - D
 
-## Năm ấy - Eb
+## Mặt Trời Của Em - Eb
 
-## Vết mưa
+## Năm Ấy - Eb
+
+## Nước Mắt Em Lau Bằng Tình Yêu Mới - G
+
+## Sau Này Hãy Gặp Lại Nhau Khi Hoa Nở - C#
+
+## Vết Mưa - C
+
+## Định Mệnh - E

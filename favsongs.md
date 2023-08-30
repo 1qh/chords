@@ -1,255 +1,255 @@
 # Female
 ## Amee
-- Anh nhà ở đâu thế
-- Em bé
-- Ex’s hate me
-- Mama boy
-- Sao anh chưa về nhà
-- Trời giấu trời mang đi
-- Từ thích thích thành thương thương
-- Đen đá không đường
+- Anh Nhà Ở Đâu Thế
+- Em Bé
+- Ex’s Hate Me
+- Mama Boy
+- Sao Anh Chưa Về Nhà
+- Trời Giấu Trời Mang Đi
+- Từ Thích Thích Thành Thương Thương
+- Đen Đá Không Đường
 ## Chi Pu
-- Anh ơi ở lại
+- Anh Ơi Ở Lại
 ## Hari Won
-- Anh cứ đi đi
+- Anh Cứ Đi Đi
 ## Hiền Hồ
-- Có như không có
-- Em ngày xưa khác rồi
-- Ng thương cũng hóa ng dưng
+- Có Như Không Có
+- Em Ngày Xưa Khác Rồi
+- Ng Thương Cũng Hóa Ng Dưng
 ## Huyền Tâm Môn
-- Lần hẹn hò đầu tiên
-- Phố đã lên đèn
+- Lần Hẹn Hò Đầu Tiên
+- Phố Đã Lên Đèn
 ## Hòa Minzy
-- Ko thể cùng nhau suốt kiếp
-- Rời bỏ
-## Hương Giang idol
-- Anh ta bỏ em rồi
-- Anh đang ở đâu đấy anh
+- Ko Thể Cùng Nhau Suốt Kiếp
+- Rời Bỏ
+## Hương Giang Idol
+- Anh Ta Bỏ Em Rồi
+- Anh Đang Ở Đâu Đấy Anh
 ## Hương Tràm
-- Cho em gần anh thêm chút nữa
-- Duyên mình lỡ
-- Em gái mưa
+- Cho Em Gần Anh Thêm Chút Nữa
+- Duyên Mình Lỡ
+- Em Gái Mưa
 - Ngốc
 ## Min
-- Có em chờ
-- Hôn anh
-- Người em tìm kiếm
-- Đừng yêu nữa em mệt rồi
+- Có Em Chờ
+- Hôn Anh
+- Người Em Tìm Kiếm
+- Đừng Yêu Nữa Em Mệt Rồi
 ## Miu Lê
-- Gác lại âu lo
-- Yêu 1 người có lẽ
+- Gác Lại Âu Lo
+- Yêu 1 Người Có Lẽ
 ## Myra Trần
-- Anh chưa thương em đến vậy đâu
-- Giữa đêm bật khóc
-- Tình yêu đến sau
+- Anh Chưa Thương Em Đến Vậy Đâu
+- Giữa Đêm Bật Khóc
+- Tình Yêu Đến Sau
 ## Mỹ Tâm
-- Chuyện như chưa bắt đầu
-- Hẹn ước từ hư vô
-- Muộn màng là từ lúc
-- Ước gì
+- Chuyện Như Chưa Bắt Đầu
+- Hẹn Ước Từ Hư Vô
+- Muộn Màng Là Từ Lúc
+- Ước Gì
 ## Phùng Khánh Linh
-- Hôm nay tôi buồn
-- Trên ô cửa máy bay
+- Hôm Nay Tôi Buồn
+- Trên Ô Cửa Máy Bay
 ## Suni Hạ Linh
-- Dằm trong tim
-- Em đã biết
-- Không sao mà em đây rồi
+- Dằm Trong Tim
+- Em Đã Biết
+- Không Sao Mà Em Đây Rồi
 ## Thùy Chi
-- Cánh buồm phiêu du
-- Hơn em chỗ nào
+- Cánh Buồm Phiêu Du
+- Hơn Em Chỗ Nào
 - Mưa
-- Phiến lá tĩnh lặng
-- Xe đạp
+- Phiến Lá Tĩnh Lặng
+- Xe Đạp
 ## Văn Mai Hương
-- Một ngàn nỗi đau
+- Một Ngàn Nỗi Đau
 - Đốt
 ## Vũ Cát Tường
-- Em ơi
-- Hành tinh ánh sáng
+- Em Ơi
+- Hành Tinh Ánh Sáng
 - If
 - Mơ
-- Vết mưa
-- Yêu xa
+- Vết Mưa
+- Yêu Xa
 - Đông
 # Male
 ## 14 Casper
-- Bao tiền một mớ bình yêu
-- Có ai ở đây không
+- Bao Tiền Một Mớ Bình Yêu
+- Có Ai Ở Đây Không
 ## Andiez
-- 1 phút
-- Anh đánh rơi ny này
-- Mãi mãi sẽ hết vào ngày mai
-- Suýt nữa thì
-- Tình yêu của anh
-- Về với anh đi
+- 1 Phút
+- Anh Đánh Rơi Ny Này
+- Mãi Mãi Sẽ Hết Vào Ngày Mai
+- Suýt Nữa Thì
+- Tình Yêu Của Anh
+- Về Với Anh Đi
 ## Bozitt
-- Mãi chẳng thuộc về nhau
-- Những gì anh nói
-- Nợ ai đó lời xin lỗi
+- Mãi Chẳng Thuộc Về Nhau
+- Những Gì Anh Nói
+- Nợ Ai Đó Lời Xin Lỗi
 ## Bùi Anh Tuấn
 - Buông
-- Chia tay
-- Chỉ còn lại tình yêu
-- Cưới nhau đi
-- Hoang mang
-- Hẹn một mai
-- Mơ hồ
-- Nơi tình yêu bắt đầu / kết thúc
-- Phố không mùa
-- Thuận theo ý trời
+- Chia Tay
+- Chỉ Còn Lại Tình Yêu
+- Cưới Nhau Đi
+- Hoang Mang
+- Hẹn Một Mai
+- Mơ Hồ
+- Nơi Tình Yêu Bắt Đầu / Kết Thúc
+- Phố Không Mùa
+- Thuận Theo Ý Trời
 ## Bằng Kiều
-- Có phải người dưng
-- Linh hồn đã mất
-- Nấc thang lên thiên đường
-- Phút cuối
-- Thao thức vì em
-- Trái tim bên lề
+- Có Phải Người Dưng
+- Linh Hồn Đã Mất
+- Nấc Thang Lên Thiên Đường
+- Phút Cuối
+- Thao Thức Vì Em
+- Trái Tim Bên Lề
 ## Chillies
-- Có em đời bỗng vui
-- Cứ chill thôi
+- Có Em Đời Bỗng Vui
+- Cứ Chill Thôi
 - Mascara
-- Nếu ngày mai không đến
-- Và thế là hết
-- Vùng ký ức
+- Nếu Ngày Mai Không Đến
+- Và Thế Là Hết
+- Vùng Ký Ức
 ## Dươngg
 - 3107 * 1/2/3
-## ERIK
-- Chạm đáy nỗi đau
-- Có tất cả nhưng thiếu anh
-- Lạc nhau có phải muôn đời
-- Mùa đông
-- Sau tất cả
-- Tôi là ai trong em
-- Yêu và yêu
-- Đừng xin lỗi nữa
+## Erik
+- Chạm Đáy Nỗi Đau
+- Có Tất Cả Nhưng Thiếu Anh
+- Lạc Nhau Có Phải Muôn Đời
+- Mùa Đông
+- Sau Tất Cả
+- Tôi Là Ai Trong Em
+- Yêu Và Yêu
+- Đừng Xin Lỗi Nữa
 ## Hoài Lâm
-- Có khi
-- Hoa nở không màu
-- Như những phút ban đầu
+- Có Khi
+- Hoa Nở Không Màu
+- Như Những Phút Ban Đầu
 ## Hoàng Dũng
-- Chẳng nói nên lời
-- Chờ anh nhé
+- Chẳng Nói Nên Lời
+- Chờ Anh Nhé
 - Ngu Nghếch
 - Nàng Thơ
-- Nép vào anh và nghe anh hát
-- Vì anh vẫn
-- Yếu đuối
-- Đôi lời
-- Đôi lời tình ca
+- Nép Vào Anh Và Nghe Anh Hát
+- Vì Anh Vẫn
+- Yếu Đuối
+- Đôi Lời
+- Đôi Lời Tình Ca
 ## Hoàng Tôn
-- Em không quay về
+- Em Không Quay Về
 - Only U
-- Yêu em rất nhiều
+- Yêu Em Rất Nhiều
 ## Hà Anh Tuấn
-- Chuyện của mùa đông
-- Chưa bao giờ
-- Tháng tư
-- Tuyết rơi mùa hè
-- Tình thôi xót xa
+- Chuyện Của Mùa Đông
+- Chưa Bao Giờ
+- Tháng Tư
+- Tuyết Rơi Mùa Hè
+- Tình Thôi Xót Xa
 ## Jaykii
-- Chiều hôm ấy
-- Càng lớn càng cô đơn
-- Vài tháng sau
-- Yếu đuối ai xem
-- Đừng như thói quen
+- Chiều Hôm Ấy
+- Càng Lớn Càng Cô Đơn
+- Vài Tháng Sau
+- Yếu Đuối Ai Xem
+- Đừng Như Thói Quen
 ## Juun Đăng Dũng
-- Mình xa mình yêu
-- Sợ rằng e biết a còn yêu e
+- Mình Xa Mình Yêu
+- Sợ Rằng E Biết A Còn Yêu E
 ## Lou Hoàng
-- Cảm giác lúc ấy sẽ ra sao
-- Là bạn không thể yêu
-- Mình là gì của nhau
-- Não cá vàng
-- Yêu em dại khờ
-- Đếm ngày xa em
+- Cảm Giác Lúc Ấy Sẽ Ra Sao
+- Là Bạn Không Thể Yêu
+- Mình Là Gì Của Nhau
+- Não Cá Vàng
+- Yêu Em Dại Khờ
+- Đếm Ngày Xa Em
 ## Mr Siro
-- Lắng nghe nước mắt
-- Sống xa em chẳng dễ dàng
-- Đừng lo anh đợi mà
+- Lắng Nghe Nước Mắt
+- Sống Xa Em Chẳng Dễ Dàng
+- Đừng Lo Anh Đợi Mà
 ## Only C
-- Yêu là tha thu
-- Đau để trưởng thành
+- Yêu Là Tha Thu
+- Đau Để Trưởng Thành
 ## Others
-- Giữa đại lộ đông tây
-- Hẹn em kiếp sau
-- Liệu giờ
-- Một mình có buồn không
+- Giữa Đại Lộ Đông Tây
+- Hẹn Em Kiếp Sau
+- Liệu Giờ
+- Một Mình Có Buồn Không
 - Noname1
-- Real love
-- Yêu ai để không phải khóc
-- Yêu như ngày yêu cuối
+- Real Love
+- Yêu Ai Để Không Phải Khóc
+- Yêu Như Ngày Yêu Cuối
 ## Phan Mạnh Quỳnh
-- Có chàng trai viết lên cây
-- Ngày chưa giông bão
-- Từ đó
+- Có Chàng Trai Viết Lên Cây
+- Ngày Chưa Giông Bão
+- Từ Đó
 ## Phạm Đình Thái Ngân
-- Cần 1 ai đó
-- Liệu ta sẽ
+- Cần 1 Ai Đó
+- Liệu Ta Sẽ
 - Lạ
-## Quang Hùng MasterD
-- Cho nhau một lời hứa
-- Dễ đến dễ đi
-- Đừng vì anh mà khóc
+## Quang Hùng Masterd
+- Cho Nhau Một Lời Hứa
+- Dễ Đến Dễ Đi
+- Đừng Vì Anh Mà Khóc
 ## Reddy
-- Anh đâu đấy
-- Kẻ mộng mơ
-- Mùa ký ức
-- Thì thôi
-- Vài giây nữa thôi
-- Đành vậy thôi
+- Anh Đâu Đấy
+- Kẻ Mộng Mơ
+- Mùa Ký Ức
+- Thì Thôi
+- Vài Giây Nữa Thôi
+- Đành Vậy Thôi
 ## Soobin Hoàng Sơn
-- Anh đã quen với cô đơn
-- Nếu ngày ấy
-- Phía sau 1 cô gái
-- Tháng năm
-- Xin đừng lặng im
-- Yêu thương ngày đó
-## T.R.I
-- Cho ngày không còn nhau
-- Chúng ta sau này
-- I don’t need you anymore
-- Người yêu mới cũ
-- Sau chia tay ai cũng khác
+- Anh Đã Quen Với Cô Đơn
+- Nếu Ngày Ấy
+- Phía Sau 1 Cô Gái
+- Tháng Năm
+- Xin Đừng Lặng Im
+- Yêu Thương Ngày Đó
+## T.r.i
+- Cho Ngày Không Còn Nhau
+- Chúng Ta Sau Này
+- I Don’t Need You Anymore
+- Người Yêu Mới Cũ
+- Sau Chia Tay Ai Cũng Khác
 ## Thai Dinh
-- Phố không em
-- Đi qua mùa hạ
+- Phố Không Em
+- Đi Qua Mùa Hạ
 ## Thế Bảo
-- Cafe thuốc lá & những ngày vui
-- Về phía mưa
+- Cafe Thuốc Lá & Những Ngày Vui
+- Về Phía Mưa
 ## Thịnh Suy
-- Chuyện rằng
-- Một đêm say
+- Chuyện Rằng
+- Một Đêm Say
 - Thắc Mắc
-## Trung Quân idol
-- Chiều nay ko có mưa bay
-- Chuyện mưa
-- Chưa bao giờ
-- Dấu mưa
-- Thả vào mưa
-- Trót yêu
-- Và ngày nào đó
+## Trung Quân Idol
+- Chiều Nay Ko Có Mưa Bay
+- Chuyện Mưa
+- Chưa Bao Giờ
+- Dấu Mưa
+- Thả Vào Mưa
+- Trót Yêu
+- Và Ngày Nào Đó
 ## Vũ
-- Bước qua mùa cô đơn
-- Bước qua nhau
-- Chuyện những người yêu xa
-- Lạ lùng
-- Lời yêu em
-- Mùa mưa ngâu nằm cạnh
-- Phút ban đầu
-- Đông kiếm em
+- Bước Qua Mùa Cô Đơn
+- Bước Qua Nhau
+- Chuyện Những Người Yêu Xa
+- Lạ Lùng
+- Lời Yêu Em
+- Mùa Mưa Ngâu Nằm Cạnh
+- Phút Ban Đầu
+- Đông Kiếm Em
 ## Đinh Mạnh Ninh
-- Dù chẳng phải anh
-- Dù có cách xa
-- Mùa yêu đầu
+- Dù Chẳng Phải Anh
+- Dù Có Cách Xa
+- Mùa Yêu Đầu
 ## Đạt G
-- Bánh mì không
-- Khó vẽ nụ cười
-- Thêm bao nhiêu lâu
+- Bánh Mì Không
+- Khó Vẽ Nụ Cười
+- Thêm Bao Nhiêu Lâu
 ## Đức Phúc
-- Chỉ một câu
-- Cũng đành thôi
-- Hơn cả yêu
-- Hết thương cạn nhớ
-- Năm ấy
-- Ta còn yêu nhau
-- Ánh nắng của anh
+- Chỉ Một Câu
+- Cũng Đành Thôi
+- Hơn Cả Yêu
+- Hết Thương Cạn Nhớ
+- Năm Ấy
+- Ta Còn Yêu Nhau
+- Ánh Nắng Của Anh
