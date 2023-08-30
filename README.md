@@ -7,32 +7,21 @@
 6 - 3 - 23 - 6
 ```
 
-## Chỉ còn riêng anh - Am
-
-`6 - 2 - 4 - 3`
-
 ## Chuyện buồn
 
 `6 - 1 - 5 - 4`
+
+## Chỉ còn riêng anh - Am
+
+`6 - 2 - 4 - 3`
 
 ## Daydreams - Bb
 
 `1 - 6 - 2 - 5`
 
-## Đi Đu Đưa Đi - Fm
-
-`2 - 3 - 6`
-
 ## Dù có cách xa - B
 
 `1 - 6 - 4 - 5`
-
-## Đông - Am
-
-```
-6 - 2' - 3'
-6 - 2' - 3' - 6
-```
 
 ## Một cú lừa - Dm
 
@@ -57,6 +46,92 @@
 ## Xin anh đừng - A#m
 
 `6 - 4 - 1 - 5`
+
+## Đi Đu Đưa Đi - Fm
+
+`2 - 3 - 6`
+
+## Đông - Am
+
+```
+6 - 2' - 3'
+6 - 2' - 3' - 6
+```
+
+# Hơi phức tạp
+
+## Hương ngọc lan - C
+
+Intro
+
+```
+1 - 4 (x3)
+33b - 25
+```
+
+Verse (+3tone)
+
+```
+1 - 6 - 2 - 5 (x2)
+3 - 6 - 2 - 5
+3 - 6 - 2 - 73'
+```
+
+Chorus
+
+-   voicing `17654345`
+
+```
+1 - 5 - 6 - 5'1 - 4 - 1 - 5# - 5
+1 - 5 - 6 - 5'1 - 4 - 1 - 2' - 5
+```
+
+Midtro
+
+`4 - 1 - 2 - 123 - 4 - 1 - 2 - 5`
+
+Bridge
+
+```
+4 - 3' - 6 - 5'1
+4 - 36 - 2 - 4 - 5
+```
+
+## Trời Giấu Trời Mang Đi - G
+
+Intro
+
+```
+1 (maj7) - 4# (m7b5)  7 (b9)
+3 - 26
+24 - 4
+5 (13)
+```
+
+Verse1 / Chorus
+
+```
+1 (maj7) - 5'1
+4 (maj7) - 4'(6)
+3 - 6
+2 - 45
+```
+
+Midtro
+
+```
+4 - 1
+2 - 45
+```
+
+Verse2
+
+```
+1 - 73'
+6 - 5'1
+45 - 36
+2 - 5
+```
 
 # Vòng linh tinh
 
@@ -120,8 +195,6 @@ Bridge
 
 `6 - 3 - 2 - 3`
 
-## Cánh hồng phai - Am
-
 ## Can't take my eyes off you - C
 
 Intro
@@ -148,6 +221,10 @@ Chorus
 
 ## Cha già rồi đúng không
 
+## Cho em một ngày
+
+## Chuyện tình
+
 ## Chờ anh nhé
 
 Verse
@@ -165,13 +242,29 @@ Chorus
 
 `CANON`
 
-## Cho em một ngày
+## Con cò
 
-## Chuyện tình
+## Cánh hồng phai - Am
 
 ## Có đôi khi
 
-## Con cò
+## Dù chẳng phải anh - C (> D)
+
+Verse
+
+-   voicing `1 7 6 5 4 3 2 3`
+
+`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 3'`
+
+Pre
+
+`4 - 5 - 3 - 6 - 4 - 1 - 2 - 5`
+
+Chorus
+
+-   voicing `1 7 6 5 4 3 2 4 5`
+
+`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 4 - 5`
 
 ## Dĩ vãng nhạt nhòa / Vẫn Nhớ - C#m
 
@@ -192,57 +285,6 @@ Chorus
 4 - 3 - 25 - 1
 4 - 36' - 23' - 6
 ```
-
-## Dù chẳng phải anh - C (> D)
-
-Verse
-
--   voicing `1 7 6 5 4 3 2 3`
-
-`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 3'`
-
-Pre
-
-`4 - 5 - 3 - 6 - 4 - 1 - 2 - 5`
-
-Chorus
-
--   voicing `1 7 6 5 4 3 2 4 5`
-
-`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 4 - 5`
-
-## Đừng yêu nữa em mệt rồi - G
-
-Intro / Verse / Chorus
-
-`CANON`
-
-Midtro
-
-```
-1 - 4 - 1 - 5
-```
-
-Bridge
-
-`45 - 36' - 25`
-
-## Đốt - G
-
-Intro
-
-```
-(+3) 4323
-(==) 4321
-```
-
-Verse / Chorus
-
-`4321`
-
-Pre
-
-`4 - 3 - 25 - 1`
 
 ## Fly me to the moon - C
 
@@ -373,29 +415,6 @@ Chorus
 
 `1 - 5 - 6 - 4`
 
-## Nếu Anh Đi - F
-
-Intro
-
-```
-15 - 6 - 45 - 1
-45 - 36 - 2 - 5 (25 - 1)
-```
-
-Chorus
-
-```
-45 - 6 (x2)
-45 - 36 - 2 - 5
-```
-
-Midtro
-
-```
-65 - 14 - 61 - 45
-65 - 14 - 2 - 5
-```
-
 ## Ngày chưa giông bão - Gm
 
 Intro / Chorus
@@ -430,6 +449,29 @@ Chorus
 ```
 62 - 51 - 62 - 73'
 45 - 36 - 23'
+```
+
+## Nếu Anh Đi - F
+
+Intro
+
+```
+15 - 6 - 45 - 1
+45 - 36 - 2 - 5 (25 - 1)
+```
+
+Chorus
+
+```
+45 - 6 (x2)
+45 - 36 - 2 - 5
+```
+
+Midtro
+
+```
+65 - 14 - 61 - 45
+65 - 14 - 2 - 5
 ```
 
 ## Rồi người thương cũng hóa người dưng - B
@@ -622,6 +664,39 @@ Bridge
 
 Tone up (+1)
 
+## Đốt - G
+
+Intro
+
+```
+(+3) 4323
+(==) 4321
+```
+
+Verse / Chorus
+
+`4321`
+
+Pre
+
+`4 - 3 - 25 - 1`
+
+## Đừng yêu nữa em mệt rồi - G
+
+Intro / Verse / Chorus
+
+`CANON`
+
+Midtro
+
+```
+1 - 4 - 1 - 5
+```
+
+Bridge
+
+`45 - 36' - 25`
+
 # Vòng lùi
 
 ## Chạm khẽ tim anh 1 chút thôi - Em
@@ -633,78 +708,3 @@ Tone up (+1)
 ## Năm ấy - Eb
 
 ## Vết mưa
-
-# Hơi phức tạp
-
-## Hương ngọc lan - C
-
-Intro
-
-```
-1 - 4 (x3)
-33b - 25
-```
-
-Verse (+3tone)
-
-```
-1 - 6 - 2 - 5 (x2)
-3 - 6 - 2 - 5
-3 - 6 - 2 - 73'
-```
-
-Chorus
-
--   voicing `17654345`
-
-```
-1 - 5 - 6 - 5'1 - 4 - 1 - 5# - 5
-1 - 5 - 6 - 5'1 - 4 - 1 - 2' - 5
-```
-
-Midtro
-
-`4 - 1 - 2 - 123 - 4 - 1 - 2 - 5`
-
-Bridge
-
-```
-4 - 3' - 6 - 5'1
-4 - 36 - 2 - 4 - 5
-```
-
-## Trời Giấu Trời Mang Đi - G
-
-Intro
-
-```
-1 (maj7) - 4# (m7b5)  7 (b9)
-3 - 26
-24 - 4
-5 (13)
-```
-
-Verse1 / Chorus
-
-```
-1 (maj7) - 5'1
-4 (maj7) - 4'(6)
-3 - 6
-2 - 45
-```
-
-Midtro
-
-```
-4 - 1
-2 - 45
-```
-
-Verse2
-
-```
-1 - 73'
-6 - 5'1
-45 - 36
-2 - 5
-```
