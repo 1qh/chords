@@ -8,7 +8,7 @@
 - Anh Nhà Ở Đâu Thế
 - Đen Đá Không Đường
 - Em Bé
-- Ex’s Hate Me
+- Ex's Hate Me
 - Mama Boy
 - Sao Anh Chưa Về Nhà
 - Trời Giấu Trời Mang Đi
@@ -101,8 +101,14 @@
 - Có Đôi Khi
 - Giữa Đại Lộ Đông Tây
 ## Văn Mai Hương
+- Cầu Hôn
 - Đốt
+- Hương
 - Một Ngàn Nỗi Đau
+- Mưa Tháng Sáu
+- Nếu Như Anh Đến
+- Như Mùa Tuyết Đầu Tiên
+- Ước Mơ Của Mẹ
 ## Vũ Cát Tường
 - Đông
 - Em Ơi
@@ -142,7 +148,8 @@
 - Hẹn Một Mai
 - Hoang Mang
 - Mơ Hồ
-- Nơi Tình Yêu Bắt Đầu / Kết Thúc
+- Nơi Tình Yêu Bắt Đầu
+- Nơi Tình Yêu Kết Thúc
 - Phố Không Mùa
 - Thuận Theo Ý Trời
 ## Chillies
@@ -190,6 +197,12 @@
 - Sau Tất Cả
 - Tôi Là Ai Trong Em
 - Yêu Và Yêu
+## Grey D
+- Có Hẹn Với Thanh Xuân
+- Dự Báo Thời Tiết Hôm Nay Mưa
+- Đưa Em Về Nhàa
+- Tình Yêu Chậm Trễ
+- Vaicaunoicokhiennguoithaydoi
 ## Hà Anh Tuấn
 - Chưa Bao Giờ
 - Chuyện Của Mùa Đông
@@ -280,7 +293,7 @@
 ## T.r.i
 - Cho Ngày Không Còn Nhau
 - Chúng Ta Sau Này
-- I Don’t Need You Anymore
+- I Don't Need You Anymore
 - Người Yêu Mới Cũ
 - Sau Chia Tay Ai Cũng Khác
 ## Tăng Duy Tân

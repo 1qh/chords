@@ -15,10 +15,6 @@
 
 `6 - 2 - 4 - 3`
 
-## Chuyện Buồn
-
-`6 - 1 - 5 - 4`
-
 ## Cô Đơn Trên Sofa - Gm
 
 `6 - 3 - 4 - 5`
@@ -706,13 +702,31 @@ Tone up (+1)
 
 # Vòng lùi
 
+## Anh Đã Quen Với Cô Đơn - F
+
+## Anh Đánh Rơi Người Yêu Này - E
+
+## Bánh Mì Không - E
+
 ## Chạm Khẽ Tim Anh Một Chút Thôi - Em
 
+## Chạy Khỏi Thế Giới Này - F
+
+## Chuyện Đôi Ta - C
+
+## Có Em Chờ - E
+
+## Dễ Đến Dễ Đi - Bb
+
 ## Định Mệnh - E
+
+## Em Đã Biết - E
 
 ## Gác Lại Âu Lo - B
 
 ## Hẹn Một Mai - F
+
+## Liệu Giờ - F#
 
 ## Mặt Trời Của Em - Eb
 
@@ -723,5 +737,9 @@ Tone up (+1)
 ## Nước Mắt Em Lau Bằng Tình Yêu Mới - G
 
 ## Sau Này Hãy Gặp Lại Nhau Khi Hoa Nở - C#
+
+## Từ Ngày Em Đến - C
+
+## Từ Thích Thích Thành Thương Thương - G#
 
 ## Vết Mưa - C
