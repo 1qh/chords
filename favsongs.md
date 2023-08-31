@@ -1,4 +1,9 @@
 # Female
+## Adele
+- Hello
+- Make You Feel My Love
+- Rolling In The Deep
+- Someone Like You
 ## Amee
 - Anh Nhà Ở Đâu Thế
 - Đen Đá Không Đường
@@ -8,17 +13,37 @@
 - Sao Anh Chưa Về Nhà
 - Trời Giấu Trời Mang Đi
 - Từ Thích Thích Thành Thương Thương
+## Bích Phương
+- Bùa Yêu
+- Đi Đu Đưa Đi
+- Gửi Anh Xa Nhớ
+- Mình Yêu Nhau Đi
+- Một Cú Lừa
 ## Chi Pu
 - Anh Ơi Ở Lại
+## Hà Nhi
+- Chưa Quên Người Yêu Cũ
+- Dĩ Vãng Nhạt Nhòa
+- Lâu Lâu Nhắc Lại
+- Vì Em Chưa Bao Giờ Khóc
 ## Hari Won
 - Anh Cứ Đi Đi
 ## Hiền Hồ
 - Có Như Không Có
 - Em Ngày Xưa Khác Rồi
-- Ng Thương Cũng Hóa Ng Dưng
+- Rồi Người Thương Cũng Hóa Người Dưng
+## Hồ Ngọc Hà
+- Cả Một Trời Thương Nhớ
+- Cô Đơn Trên Sofa
+- Lặng Thầm Một Tình Yêu
+- Xin Anh Đừng
 ## Hòa Minzy
-- Ko Thể Cùng Nhau Suốt Kiếp
+- Không Thể Cùng Nhau Suốt Kiếp
 - Rời Bỏ
+## Hoàng Thùy Linh
+- Bo Xì Bo
+- Để Mị Nói Cho Mà Nghe
+- See Tình
 ## Hương Giang Idol
 - Anh Đang Ở Đâu Đấy Anh
 - Anh Ta Bỏ Em Rồi
@@ -37,11 +62,17 @@
 - Người Em Tìm Kiếm
 ## Miu Lê
 - Gác Lại Âu Lo
-- Yêu 1 Người Có Lẽ
+- Yêu Một Người Có Lẽ
+## Mỹ Linh
+- Chuyện Tình
+- Hương Ngọc Lan
+- Thì Thầm Mùa Xuân
 ## Mỹ Tâm
 - Chuyện Như Chưa Bắt Đầu
 - Hẹn Ước Từ Hư Vô
 - Muộn Màng Là Từ Lúc
+- Nếu Anh Đi
+- Người Hãy Quên Em Đi
 - Ước Gì
 ## Myra Trần
 - Anh Chưa Thương Em Đến Vậy Đâu
@@ -50,6 +81,11 @@
 ## Phùng Khánh Linh
 - Hôm Nay Tôi Buồn
 - Trên Ô Cửa Máy Bay
+## Phương Ly
+- Anh Là Ai
+- Mặt Trời Của Em
+- Missing You
+- Thichthich
 ## Suni Hạ Linh
 - Dằm Trong Tim
 - Em Đã Biết
@@ -60,12 +96,17 @@
 - Mưa
 - Phiến Lá Tĩnh Lặng
 - Xe Đạp
+## Uyên Linh
+- Chờ Người Nơi Ấy
+- Có Đôi Khi
+- Giữa Đại Lộ Đông Tây
 ## Văn Mai Hương
 - Đốt
 - Một Ngàn Nỗi Đau
 ## Vũ Cát Tường
 - Đông
 - Em Ơi
+- Góc Ban Công
 - Hành Tinh Ánh Sáng
 - If
 - Mơ
@@ -109,13 +150,24 @@
 - Cứ Chill Thôi
 - Mascara
 - Nếu Ngày Mai Không Đến
-- Và Thế Là Hết
+- Và Thế Là Hết (chillies)
 - Vùng Ký Ức
+## Da Lab
+- Chạy Khỏi Thế Giới Này
+- Chuyện Đôi Ta
+- Gác Lại Âu Lo
+- Một Nhà
+- Nước Mắt Em Lau Bằng Tình Yêu Mới
+- Sinh Ra Đã Là Thứ Đối Lập Nhau
+- Thanh Xuân
+- Thức Giấc
+- Từ Ngày Em Đến
 ## Đạt G
 - Bánh Mì Không
 - Khó Vẽ Nụ Cười
 - Thêm Bao Nhiêu Lâu
 ## Đinh Mạnh Ninh
+- Chỉ Còn Riêng Anh
 - Dù Chẳng Phải Anh
 - Dù Có Cách Xa
 - Mùa Yêu Đầu
@@ -141,7 +193,8 @@
 ## Hà Anh Tuấn
 - Chưa Bao Giờ
 - Chuyện Của Mùa Đông
-- Tháng Tư
+- Tháng Mấy Em Nhớ Anh
+- Tháng Tư Là Lời Nói Dối Của Em
 - Tình Thôi Xót Xa
 - Tuyết Rơi Mùa Hè
 ## Hoài Lâm
@@ -170,7 +223,7 @@
 - Yếu Đuối Ai Xem
 ## Juun Đăng Dũng
 - Mình Xa Mình Yêu
-- Sợ Rằng E Biết A Còn Yêu E
+- Sợ Rằng Em Biết Anh Còn Yêu Em
 ## Lou Hoàng
 - Cảm Giác Lúc Ấy Sẽ Ra Sao
 - Đếm Ngày Xa Em
@@ -178,29 +231,30 @@
 - Mình Là Gì Của Nhau
 - Não Cá Vàng
 - Yêu Em Dại Khờ
+## Mai Tiến Dũng
+- Người Như Anh
+- Yêu Như Ngày Yêu Cuối
 ## Mr Siro
 - Đừng Lo Anh Đợi Mà
 - Lắng Nghe Nước Mắt
 - Sống Xa Em Chẳng Dễ Dàng
+## Noo Phước Thịnh
+- Chạm Khẽ Tim Anh Một Chút Thôi
+- Định Mệnh
+- Gạt Đi Nước Mắt
+- Giá Như
+- Như Vậy Mãi Thôi
+- Thương Em Là Điều Anh Không Thể Ngờ
+- Thương Mấy Cũng Là Người Dưng
 ## Only C
 - Đau Để Trưởng Thành
 - Yêu Là Tha Thu
-## Others
-- Giữa Đại Lộ Đông Tây
-- Hẹn Em Kiếp Sau
-- Liệu Giờ
-- Một Mình Có Buồn Không
-- Noname1
-- Real Love
-- Yêu Ai Để Không Phải Khóc
-- Yêu Như Ngày Yêu Cuối
 ## Phạm Đình Thái Ngân
-- Cần 1 Ai Đó
+- Cần Một Ai Đó
 - Lạ
 - Liệu Ta Sẽ
 ## Phan Mạnh Quỳnh
 - Có Chàng Trai Viết Lên Cây
-- Ngày Chưa Giông Bão
 - Từ Đó
 ## Quang Hùng Masterd
 - Cho Nhau Một Lời Hứa
@@ -215,9 +269,12 @@
 - Vài Giây Nữa Thôi
 ## Soobin Hoàng Sơn
 - Anh Đã Quen Với Cô Đơn
+- Daydreams
 - Nếu Ngày Ấy
-- Phía Sau 1 Cô Gái
+- Phía Sau Một Cô Gái
 - Tháng Năm
+- Và Thế Là Hết (soobin)
+- Vẫn Nhớ
 - Xin Đừng Lặng Im
 - Yêu Thương Ngày Đó
 ## T.r.i
@@ -226,6 +283,12 @@
 - I Don’t Need You Anymore
 - Người Yêu Mới Cũ
 - Sau Chia Tay Ai Cũng Khác
+## Tăng Duy Tân
+- Bật Tình Yêu Lên
+- Bên Trên Tầng Lầu
+- Dạ Vũ
+- Ngây Thơ
+- Tình Đầu
 ## Thai Dinh
 - Đi Qua Mùa Hạ
 - Phố Không Em
@@ -237,13 +300,16 @@
 - Một Đêm Say
 - Thắc Mắc
 ## Trung Quân Idol
-- Chiều Nay Ko Có Mưa Bay
+- Chiều Nay Không Có Mưa Bay
 - Chưa Bao Giờ
 - Chuyện Mưa
 - Dấu Mưa
 - Thả Vào Mưa
 - Trót Yêu
 - Và Ngày Nào Đó
+## Tùng Dương
+- Con Cò
+- Ngày Chưa Giông Bão
 ## Vũ
 - Bước Qua Mùa Cô Đơn
 - Bước Qua Nhau
@@ -253,3 +319,23 @@
 - Lời Yêu Em
 - Mùa Mưa Ngâu Nằm Cạnh
 - Phút Ban Đầu
+# Others
+## Pending
+- 2002
+- Ai Chung Tình Được Mãi
+- Always Remember Us This Way
+- Can't Take My Eyes Off You
+- Cánh Hồng Phai
+- Cha Già Rồi Đúng Không
+- Fly Me To The Moon
+- Hẹn Em Kiếp Sau
+- If I Ain't Got You
+- Liệu Giờ
+- Một Mình Có Buồn Không
+- Ngày Mai Người Ta Lấy Chồng
+- Noname1
+- Real Love
+- Sau Này Hãy Gặp Lại Nhau Khi Hoa Nở
+- Senorita
+- Sợ Yêu
+- Yêu Ai Để Không Phải Khóc
