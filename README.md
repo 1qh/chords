@@ -255,8 +255,6 @@ Chorus
 
 `CANON`
 
-## Cho Em Một Ngày
-
 ## Chuyện Tình
 
 ## Có Đôi Khi
@@ -335,8 +333,6 @@ Bridge
 `45 - 36' - 25`
 
 ## Fly Me To The Moon - C
-
-## Friends - Am
 
 ## Giữa Đại Lộ Đông Tây - D
 
@@ -507,8 +503,6 @@ Outro
 
 `6 - 3 - 5 - 4`
 
-## Ngày Nắng
-
 ## Người Hãy Quên Em Đi
 
 Intro / Verse
@@ -583,8 +577,6 @@ Pre
 Bridge
 
 `5 - 6 - 4 - 21 - 45`
-
-## Ta Có Hẹn Với Tháng 5 - F#m
 
 ## Tháng Mấy Em Nhớ Anh - Am
 
