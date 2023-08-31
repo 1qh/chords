@@ -11,13 +11,13 @@
 
 `6 - 3 - 2 - 3'`
 
-## Chuyện Buồn
-
-`6 - 1 - 5 - 4`
-
 ## Chỉ Còn Riêng Anh - Am
 
 `6 - 2 - 4 - 3`
+
+## Chuyện Buồn
+
+`6 - 1 - 5 - 4`
 
 ## Cô Đơn Trên Sofa - Gm
 
@@ -26,6 +26,17 @@
 ## Daydreams - Bb
 
 `1 - 6 - 2 - 5`
+
+## Đi Đu Đưa Đi - Fm
+
+`2 - 3 - 6`
+
+## Đông - Am
+
+```
+6 - 2' - 3'
+6 - 2' - 3' - 6
+```
 
 ## Dù Có Cách Xa - B
 
@@ -61,17 +72,6 @@
 ## Xin Anh Đừng - A#m
 
 `6 - 4 - 1 - 5`
-
-## Đi Đu Đưa Đi - Fm
-
-`2 - 3 - 6`
-
-## Đông - Am
-
-```
-6 - 2' - 3'
-6 - 2' - 3' - 6
-```
 
 # Hơi phức tạp
 
@@ -234,11 +234,9 @@ Chorus
 2 - 5 - 1 - 6'
 ```
 
+## Cánh Hồng Phai - Am
+
 ## Cha Già Rồi Đúng Không
-
-## Cho Em Một Ngày
-
-## Chuyện Tình
 
 ## Chờ Anh Nhé
 
@@ -257,29 +255,13 @@ Chorus
 
 `CANON`
 
-## Con Cò
+## Cho Em Một Ngày
 
-## Cánh Hồng Phai - Am
+## Chuyện Tình
 
 ## Có Đôi Khi
 
-## Dù Chẳng Phải Anh - C (> D)
-
-Verse
-
--   voicing `1 7 6 5 4 3 2 3`
-
-`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 3'`
-
-Pre
-
-`4 - 5 - 3 - 6 - 4 - 1 - 2 - 5`
-
-Chorus
-
--   voicing `1 7 6 5 4 3 2 4 5`
-
-`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 4 - 5`
+## Con Cò
 
 ## Dĩ Vãng Nhạt Nhòa / Vẫn Nhớ - C#m
 
@@ -300,6 +282,57 @@ Chorus
 4 - 3 - 25 - 1
 4 - 36' - 23' - 6
 ```
+
+## Đốt - G
+
+Intro
+
+```
+(+3) 4323
+(==) 4321
+```
+
+Verse / Chorus
+
+`4321`
+
+Pre
+
+`4 - 3 - 25 - 1`
+
+## Dù Chẳng Phải Anh - C (> D)
+
+Verse
+
+-   voicing `1 7 6 5 4 3 2 3`
+
+`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 3'`
+
+Pre
+
+`4 - 5 - 3 - 6 - 4 - 1 - 2 - 5`
+
+Chorus
+
+-   voicing `1 7 6 5 4 3 2 4 5`
+
+`1 - 5 - 6 - 5'1 - 4 - 1 - 2 - 4 - 5`
+
+## Đừng Yêu Nữa Em Mệt Rồi - G
+
+Intro / Verse / Chorus
+
+`CANON`
+
+Midtro
+
+```
+1 - 4 - 1 - 5
+```
+
+Bridge
+
+`45 - 36' - 25`
 
 ## Fly Me To The Moon - C
 
@@ -430,6 +463,29 @@ Chorus
 
 `1 - 5 - 6 - 4`
 
+## Nếu Anh Đi - F
+
+Intro
+
+```
+15 - 6 - 45 - 1
+45 - 36 - 2 - 5 (25 - 1)
+```
+
+Chorus
+
+```
+45 - 6 (x2)
+45 - 36 - 2 - 5
+```
+
+Midtro
+
+```
+65 - 14 - 61 - 45
+65 - 14 - 2 - 5
+```
+
 ## Ngày Chưa Giông Bão - Gm
 
 Intro / Chorus
@@ -466,29 +522,6 @@ Chorus
 45 - 36 - 23'
 ```
 
-## Nếu Anh Đi - F
-
-Intro
-
-```
-15 - 6 - 45 - 1
-45 - 36 - 2 - 5 (25 - 1)
-```
-
-Chorus
-
-```
-45 - 6 (x2)
-45 - 36 - 2 - 5
-```
-
-Midtro
-
-```
-65 - 14 - 61 - 45
-65 - 14 - 2 - 5
-```
-
 ## Rồi Người Thương Cũng Hóa Người Dưng - B
 
 Intro
@@ -515,6 +548,22 @@ Chorus
 4 - 5 - 3 - 6' - 2 - 3 - 6
 ```
 
+## Sợ Yêu - F#m
+
+Verse
+
+```
+6 - 2 - 5 - 1 - 4 - 2 - 7 - 3
+6 - 2 - 5 - 1 - 4 - 2 - 73' - 66'
+```
+
+Chorus
+
+```
+2 - 5 - 1 - 4 - 7 - 3' - 65 - 1
+2 - 5 - 1 - 4 - 7 - 3' - 6
+```
+
 ## Someone Like You - A
 
 Intro / Verse / Chorus
@@ -534,22 +583,6 @@ Pre
 Bridge
 
 `5 - 6 - 4 - 21 - 45`
-
-## Sợ Yêu - F#m
-
-Verse
-
-```
-6 - 2 - 5 - 1 - 4 - 2 - 7 - 3
-6 - 2 - 5 - 1 - 4 - 2 - 73' - 66'
-```
-
-Chorus
-
-```
-2 - 5 - 1 - 4 - 7 - 3' - 65 - 1
-2 - 5 - 1 - 4 - 7 - 3' - 6
-```
 
 ## Ta Có Hẹn Với Tháng 5 - F#m
 
@@ -679,50 +712,19 @@ Bridge
 
 Tone up (+1)
 
-## Đốt - G
-
-Intro
-
-```
-(+3) 4323
-(==) 4321
-```
-
-Verse / Chorus
-
-`4321`
-
-Pre
-
-`4 - 3 - 25 - 1`
-
-## Đừng Yêu Nữa Em Mệt Rồi - G
-
-Intro / Verse / Chorus
-
-`CANON`
-
-Midtro
-
-```
-1 - 4 - 1 - 5
-```
-
-Bridge
-
-`45 - 36' - 25`
-
 # Vòng lùi
 
 ## Chạm Khẽ Tim Anh 1 Chút Thôi - Em
+
+## Định Mệnh - E
 
 ## Gác Lại Âu Lo - B
 
 ## Hẹn Một Mai - F
 
-## Mơ - D
-
 ## Mặt Trời Của Em - Eb
+
+## Mơ - D
 
 ## Năm Ấy - Eb
 
@@ -731,5 +733,3 @@ Bridge
 ## Sau Này Hãy Gặp Lại Nhau Khi Hoa Nở - C#
 
 ## Vết Mưa - C
-
-## Định Mệnh - E
