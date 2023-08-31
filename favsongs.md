@@ -118,7 +118,7 @@
 - Có Ai Ở Đây Không
 ## Andiez
 - 1 Phút
-- Anh Đánh Rơi Ny Này
+- Anh Đánh Rơi Người Yêu Này
 - Mãi Mãi Sẽ Hết Vào Ngày Mai
 - Suýt Nữa Thì
 - Tình Yêu Của Anh
