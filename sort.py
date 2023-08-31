@@ -5,11 +5,11 @@ from markdown_it import MarkdownIt as MD
 from unidecode import unidecode
 
 
-def dsort(d):
+def dsort(d: dict):
     return dict(sorted(d.items(), key=lambda x: unidecode(x[0]))).items()
 
 
-def export(l, fn):
+def export(l: list, fn: str):
     with open(fn, 'w') as f:
         f.write('\n'.join(l))
 
