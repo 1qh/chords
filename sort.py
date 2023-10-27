@@ -2,7 +2,7 @@ from string import capwords
 
 from bs4 import BeautifulSoup as BS
 from markdown_it import MarkdownIt as MD
-from unidecode import unidecode
+from text_unidecode import unidecode
 
 
 def dsort(d: dict):

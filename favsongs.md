@@ -35,6 +35,7 @@
 ## Hồ Ngọc Hà
 - Cả Một Trời Thương Nhớ
 - Cô Đơn Trên Sofa
+- Gửi Người Yêu Cũ
 - Lặng Thầm Một Tình Yêu
 - Xin Anh Đừng
 ## Hòa Minzy
@@ -78,11 +79,16 @@
 - Anh Chưa Thương Em Đến Vậy Đâu
 - Giữa Đêm Bật Khóc
 - Tình Yêu Đến Sau
+## Olivia Rodrigo
+- Deja Vu
+- Driver License
+- Vampire
 ## Phùng Khánh Linh
 - Hôm Nay Tôi Buồn
 - Trên Ô Cửa Máy Bay
 ## Phương Ly
 - Anh Là Ai
+- Anh Là Ngoại Lệ Của Em
 - Mặt Trời Của Em
 - Missing You
 - Thichthich
@@ -152,6 +158,19 @@
 - Nơi Tình Yêu Kết Thúc
 - Phố Không Mùa
 - Thuận Theo Ý Trời
+## Charlie Puth
+- Attention
+- Cheating On You
+- Dangerously
+- How Long
+- I Don't Think That I Like Her
+- Left And Right
+- Light Switch
+- Marvin Gaye
+- One Call Away
+- See You Again
+- That's Not How This Works
+- We Don't Talk Anymore
 ## Chillies
 - Có Em Đời Bỗng Vui
 - Cứ Chill Thôi
@@ -217,11 +236,16 @@
 ## Hoàng Dũng
 - Chẳng Nói Nên Lời
 - Chờ Anh Nhé
+- Đoạn Kết Mới
 - Đôi Lời
 - Đôi Lời Tình Ca
+- Đôi Mươi
 - Nàng Thơ
+- Ném Câu Yêu Vào Không Trung
 - Nép Vào Anh Và Nghe Anh Hát
 - Ngu Nghếch
+- Nửa Thập Kỷ
+- Thói Quen
 - Vì Anh Vẫn
 - Yếu Đuối
 ## Hoàng Tôn
@@ -234,6 +258,15 @@
 - Đừng Như Thói Quen
 - Vài Tháng Sau
 - Yếu Đuối Ai Xem
+## Justatee
+- 2am
+- Bâng Khuâng
+- Crying Over You
+- Đã Lỡ Yêu Em Nhiều
+- Forever Alone
+- Người Nào Đó
+- Thằng Điên
+- Thời Gian Sẽ Trả Lời
 ## Juun Đăng Dũng
 - Mình Xa Mình Yêu
 - Sợ Rằng Em Biết Anh Còn Yêu Em
@@ -280,6 +313,19 @@
 - Mùa Ký Ức
 - Thì Thôi
 - Vài Giây Nữa Thôi
+## Sam Smith
+- Diamonds
+- I'm Not The Only One
+- Too Good At Goodbyes
+- Unholy
+## Shawn Mendes
+- I Know What You Did Last Summer
+- If I Can't Have You
+- In My Blood
+- Senorita
+- Stitches
+- There's Nothing Holdin' Me Back
+- Treat You Better
 ## Soobin Hoàng Sơn
 - Anh Đã Quen Với Cô Đơn
 - Daydreams
@@ -304,6 +350,7 @@
 - Tình Đầu
 ## Thai Dinh
 - Đi Qua Mùa Hạ
+- Em Còn Dùng Số Này Không
 - Phố Không Em
 ## Thế Bảo
 - Cafe Thuốc Lá & Những Ngày Vui
@@ -340,15 +387,18 @@
 - Can't Take My Eyes Off You
 - Cánh Hồng Phai
 - Cha Già Rồi Đúng Không
+- Em Ổn Không
 - Fly Me To The Moon
 - Hẹn Em Kiếp Sau
 - If I Ain't Got You
 - Liệu Giờ
+- Mình Anh Nơi Này
 - Một Mình Có Buồn Không
 - Ngày Mai Người Ta Lấy Chồng
 - Noname1
 - Real Love
 - Sau Này Hãy Gặp Lại Nhau Khi Hoa Nở
-- Senorita
 - Sợ Yêu
+- Vệt Nắng Cuối Trời
+- Xin Lỗi Anh Yêu Em
 - Yêu Ai Để Không Phải Khóc
