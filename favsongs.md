@@ -56,6 +56,22 @@
 ## Huyền Tâm Môn
 - Lần Hẹn Hò Đầu Tiên
 - Phố Đã Lên Đèn
+## Lệ Quyên
+- Ai Khổ Vì Ai
+- Bên Em Là Biển Rộng
+- Để Nhớ Một Thời Ta Đã Yêu
+- Giấc Mơ Có Thật
+- Không Giờ Rồi
+- Nắng Có Còn Xuân
+- Nếu Em Được Chọn Lựa
+- Nếu Như Ngày Đó
+- Người Đi Ngoài Phố
+- Như Giấc Chiêm Bao
+- Nỗi Đau Ngự Trị
+- Sầu Lẻ Bóng
+- Sầu Tím Thiệp Hồng
+- Thôi Đừng Chiêm Bao
+- Trái Tim Tổn Thương
 ## Min
 - Có Em Chờ
 - Đừng Yêu Nữa Em Mệt Rồi
@@ -97,6 +113,7 @@
 - Em Đã Biết
 - Không Sao Mà Em Đây Rồi
 ## Thùy Chi
+- Con Đường Hạnh Phúc
 - Cánh Buồm Phiêu Du
 - Hơn Em Chỗ Nào
 - Mưa
