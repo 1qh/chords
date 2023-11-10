@@ -113,12 +113,15 @@
 - Em Đã Biết
 - Không Sao Mà Em Đây Rồi
 ## Thùy Chi
-- Con Đường Hạnh Phúc
 - Cánh Buồm Phiêu Du
+- Con Đường Hạnh Phúc
 - Hơn Em Chỗ Nào
 - Mưa
 - Phiến Lá Tĩnh Lặng
 - Xe Đạp
+## Tóc Tiên
+- Có Ai Thương Em Như Anh
+- Em Không Là Duy Nhất
 ## Uyên Linh
 - Chờ Người Nơi Ấy
 - Có Đôi Khi
