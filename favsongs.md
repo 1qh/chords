@@ -417,6 +417,7 @@
 - Ngu Nghếch
 - Nửa Thập Kỷ
 - Thói Quen
+- Tan Biến
 - Vì Anh Vẫn
 - Yếu Đuối
 
@@ -724,3 +725,5 @@
 - Vệt Nắng Cuối Trời
 - Xin Lỗi Anh Yêu Em
 - Yêu Ai Để Không Phải Khóc
+- Say yes (Vietnamese Version)
+- Anh Đau Từ Lúc Em Đi
